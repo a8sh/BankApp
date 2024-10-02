@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\04165ec6-21e8-4a72-9a84-d79046a9b87e.jpeg",
+      "PackagePath": "staticwebassets\\images\\04165ec6-21e8-4a72-9a84-d79046a9b87e.jpeg"
+    },
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\45f637bb-00d1-48ce-992a-115425e59375.png",
+      "PackagePath": "staticwebassets\\images\\45f637bb-00d1-48ce-992a-115425e59375.png"
+    },
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\48cbad8e-1e08-4fa2-9fe5-171fd64050fb.jpeg",
+      "PackagePath": "staticwebassets\\images\\48cbad8e-1e08-4fa2-9fe5-171fd64050fb.jpeg"
+    },
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\4c880752-1025-4195-a85b-17ddbda5ade4.jpeg",
+      "PackagePath": "staticwebassets\\images\\4c880752-1025-4195-a85b-17ddbda5ade4.jpeg"
+    },
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\85ac473d-e00d-4911-b9b2-464aa64e0b1a.jpeg",
+      "PackagePath": "staticwebassets\\images\\85ac473d-e00d-4911-b9b2-464aa64e0b1a.jpeg"
+    },
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\a9a74556-a353-4c80-a1a4-6440e1350a18.jpeg",
+      "PackagePath": "staticwebassets\\images\\a9a74556-a353-4c80-a1a4-6440e1350a18.jpeg"
+    },
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\a9f865aa-6ead-4918-93ac-e30c4d559c6e.jpeg",
+      "PackagePath": "staticwebassets\\images\\a9f865aa-6ead-4918-93ac-e30c4d559c6e.jpeg"
+    },
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\ab569395-3114-4264-9b84-88e5b1528ece.jpeg",
+      "PackagePath": "staticwebassets\\images\\ab569395-3114-4264-9b84-88e5b1528ece.jpeg"
+    },
+    {
+      "Id": "D:\\C#\\BankApp\\wwwroot\\images\\default.jpg",
+      "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BankApp.props",
+      "PackagePath": "build\\BankApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BankApp.props",
+      "PackagePath": "buildMultiTargeting\\BankApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BankApp.props",
+      "PackagePath": "buildTransitive\\BankApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
